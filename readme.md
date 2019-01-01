@@ -11,6 +11,8 @@ The more specific you are with your request, the more likely you are to receive 
 - **Use some of my open source code in your Wordpress Site**
 - **Help complete your homework assignment**
 
+For CodePen support requests, please use https://codepen.io/support/
+
 ### Guidelines
 
 - Ensure your question hasn't already been answered.
